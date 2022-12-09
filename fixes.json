@@ -1,0 +1,20 @@
+{
+    "deletes": [
+        "/meshes/magic/fxtimerift.nif",
+        "/meshes/dlc02/dungeons/apocrypha/animated/forbiddenbook/apoforbiddenbook01.nif",
+        "/meshes/dungeons/imperial/customfx/impforthallcollapsefx01.nif",
+        "/meshes/clutter/signage/whiterun/signwrbanneredmare01.nif",
+        "/meshes/dlc01/dungeons/castle/animated/cascoffinpuzzle/cascoffinpuzzle01.nif",
+        "/meshes/dlc01/effects/dlc1snowelfflathavokexplosion.nif",
+        "/meshes/dlc02/dungeons/nordic/dlc2norenchanteddias02/dlc2norenchanteddias02.nif",
+        "/meshes/effects/dragoncrash/fxdragoncrashfurrow01.nif",
+        "/meshes/traps/swingingblade/trapbladeswinging01dustfx.nif",
+        "/meshes/dungeons/imperial/customfx/cg01destroyedbridge.nif",
+        "/meshes/dbm resources/architecture/newmuseum/dbmgallerycentralfloor.nif",
+        "/meshes/dlc01/architecture/snowelfruins/dlc01sebf_blastroofremain.nif",
+        "/meshes/traps/dwefirepillar/trapdwefirepillar01.nif",
+        "/meshes/dlc01/effectsdlc1columnhavokexplosion.nif",
+        "/meshes/effects/mgmagicfirepillarmidden01.nif",
+        "/meshes/dungeons/nordic/secretpass/animated/rmsmdoor02/norsecrmsmdoorsm02.nif"
+    ]
+}
