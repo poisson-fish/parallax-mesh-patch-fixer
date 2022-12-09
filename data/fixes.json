@@ -15,6 +15,17 @@
         "meshes/traps/dwefirepillar/trapdwefirepillar01.nif",
         "meshes/dlc01/effectsdlc1columnhavokexplosion.nif",
         "meshes/effects/mgmagicfirepillarmidden01.nif",
-        "meshes/dungeons/nordic/secretpass/animated/rmsmdoor02/norsecrmsmdoorsm02.nif"
+        "meshes/dungeons/nordic/secretpass/animated/rmsmdoor02/norsecrmsmdoorsm02.nif",
+        "meshes/plants/leek01.nif",
+        "meshes/architecture/windhelm/whpalace1.nif",
+        "meshes/architecture/windhelm/whpalace2.nif",
+        "meshes/architecture/windhelm/whpalace3.nif",
+        "meshes/architecture/windhelm/whpalace4.nif",
+        "meshes/architecture/windhelm/whpalace5.nif",
+        "meshes/clutter/deadanimals/wallmountedelkfemale02.nif",
+        "meshes/clutter/bones/mountedantlers.nif",
+        "meshes/clutter/ruins/ruins_largechest.nif",
+        "meshes/landscape/roads",
+        "meshes/landscape/bridges"
     ]
 }
