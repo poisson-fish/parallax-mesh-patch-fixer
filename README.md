@@ -3,7 +3,7 @@ This is a simple python script to fix [Parallax Mesh Patch Collection](https://w
 
 ## To use:
 ```
-python fix_mesh_collection.py [Path to Vortex Parallax Mesh Patch Collection folder]
+python fix_mesh_collection.py [Path to Parallax Mesh Patch Collection folder]
 ```
 
 Made with Python 3.10.8, no dependencies required.
